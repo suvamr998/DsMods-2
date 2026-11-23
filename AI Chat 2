@@ -1,0 +1,38 @@
+{
+  "packageName": "org.chatai.ai.chat",
+  "version": "1.69",
+  "forceUpdate": false,
+  "ExpiredDate": "2025/08/22 02:20",
+  "authorName": "INCoderDev",
+  "description": [
+    {
+      "title": "Chapter 1",
+      "text": "Official Release v4.0 is out! New UI elements and themes."
+    },
+    {
+      "title": "Performance",
+      "text": "Enhanced performance and stability. Experience faster load times."
+    },
+    {
+      "title": "Features",
+      "text": "Subscription free download with the best performance updates."
+    }
+  ],
+  "DownloadButtonText": " DOWNLOAD ",
+  "DownloadButtonUrl": "https://t.me/INCoderDev",
+  "cancelButtonText": "Close",
+  "appList": [
+    {
+      "iconUrl": "https://bit.ly/icon_CapCut",
+      "appName": "CapCut PRO",
+      "appVersion": "20.2.0",
+      "url": "https://t.me/INCoderDev"
+    },
+    {
+      "iconUrl": "https://bit.ly/icon_PandaVPN",
+      "appName": "Panda VPN Lifetime",
+      "appVersion": "8.0.1",
+      "url": "https://t.me/INCoderDev"
+    }
+  ]
+}
